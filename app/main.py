@@ -11,14 +11,14 @@ app = FastAPI(
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins
+    allow_origins=["*"],  
     allow_credentials=True,
-    allow_methods=["*"],  # Allows all methods
-    allow_headers=["*"],  # Allows all headers
+    allow_methods=["*"],  
+    allow_headers=["*"],  
 )
 
 app.include_router(chat_api.router, prefix="/api")
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Chat API"} 
+    return {"message": "Welcome to the hackx Chat API"} 
