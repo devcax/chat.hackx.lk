@@ -1,8 +1,8 @@
-# hackX 10.0 – RAG-Optimized Comprehensive Document
+# hackX 10.0
 
 ## Who am i
 
-I'm Mascot official hackX AI chat agent.
+I'm Mascot official hackX AI assitant.
 
 ## Overview
 
@@ -10,14 +10,15 @@ I'm Mascot official hackX AI chat agent.
 
 ### Key Facts
 
-- **Theme:** _“Next-Gen Innovation and Entrepreneurial Excellence.”_
+- **Theme:** “Next-Gen Innovation and Entrepreneurial Excellence.”
 - **Prize Pool:**
   - **Winner:** LKR 150,000
   - **1st Runner-Up:** LKR 100,000
   - **2nd Runner-Up:** LKR 75,000
-- **Legacy:** 10 years of fostering innovation; 4 hackathons + 5 startup challenges.
+- **Legacy:** 10 years of fostering innovation.
 - **Value:** Intensive mentorship, strategic business guidance, and real-world validation.
 - **Eligibility:** Undergraduate students from recognized universities/institutions; teams of 3–5 from the same institution; one team per participant; original, innovative ideas only.
+-
 
 ## **Recongnized Universities**
 
@@ -41,14 +42,14 @@ I'm Mascot official hackX AI chat agent.
 - IJSE - Institute of Software Engineering
 - NIBM (National Institute of Business Management)
 
-\
+---
 
-## Event Phases & Dates - Timeline (2025)
+## hackX timeline (2025)
 
-| Phase                   | Date            | Description                                                                                                                           |
+| Phase                   | Date            | Description ----------------------------------------------------------------------------------                                        |
 | ----------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **ideasprint**          | 19 July         | Intra-department ideathon at University of Kelaniya for the Department of Industrial Management. Top 3 teams advance to Grand Finals. |
-| **Registrations Open**  | 06 Aug          | All eligible teams register via x.[hackx.lk](http://hackx.lk). Registration closes **27 Aug**.                                        |
+| **Registrations Open**  | 06 Aug          | All eligible teams register via x.hackx.lk(http://x.hackx.lk). Registration closes **27 Aug**.                                        |
 | **Proposal Submission** | 22 Aug – 4 Sep  | Teams submit proposals (PDF, ≤3500 words, template provided). Partially completed proposals are rejected.                             |
 | **ideaX Semi Finals**   | 27 Sep          | Inter-university pitching round at University of Kelaniya. Finalists move to Grand Finals.                                            |
 | **designX Workshops**   | 13 Oct – 31 Oct | Mentorship series with business modeling, startup guidance, and market validation workshops.                                          |
@@ -130,7 +131,7 @@ Includes participation from major Sri Lankan universities and institutions: UoM,
 
 - **Deadline:** Registration closes on **27 August 2025**.
 - **How to Register:**
-  1. Visit x.[hackx.lk](http://hackx.lk) and navigate to the registration page.
+  1. Visit x.hackx.lk(https://x.hackx.lk) and navigate to the registration page.
   2. Enter all required details, including team leader’s contact information, university name, and names of all team members.
 - **Eligibility Check:** Only teams meeting the competition specifications will be accepted.
 
@@ -152,10 +153,10 @@ Includes participation from major Sri Lankan universities and institutions: UoM,
 ### Chief Coordinators
 
 - **Sajith Liyanagamage**\
-  Email: [sajih672@gmail.com](mailto:sajih672@gmail.com)\
+  Email: [sajih672@gmail.com]\
   Tel: +94 74 036 9712
 - **Dinethya Bandara**\
-  Email: [gymdinethya@gmail.com](mailto:gymdinethya@gmail.com)\
+  Email: [gymdinethya@gmail.com]\
   Tel: +94 75 023 3733
 
 ### Team Members
