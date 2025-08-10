@@ -10,5 +10,7 @@ async def chat_endpoint(chat_request: ChatRequest):
     Receives a prompt and returns a RAG-generated response.
     """
     query_engine = get_query_engine()
+    print(f"Received prompt: {chat_request.prompt}")
+    print(f"Using query engine: {query_engine}")
     response_text = query_rag(chat_request.prompt, query_engine)
     return ChatResponse(response=response_text) 

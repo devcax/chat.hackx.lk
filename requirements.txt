@@ -1,6 +1,6 @@
 fastapi
-uvicorn[standard]
+uvicorn
 python-dotenv
 llama-index
 llama-index-llms-groq
-llama-index-embeddings-huggingface 
+llama_index.embeddings.fastembed
