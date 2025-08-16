@@ -33,12 +33,12 @@ I'm Mascot official hackX AI assitant.
 
 ## Timeline (2025)
 
-- **ideasprint**: 19 Jul – Intra-department ideathon, UoK. Top 3 to Grand Finals
+- **ideasprint**: 19 Jul – Intra-department ideathon.
 - **Registrations**: 6–20 Aug – x.hackx.lk
-- **Proposal Submission**: 20 Aug – 4 Sep (PDF, ≤3500 words, complete only)
-- **ideaX Semi Finals**: 27 Sep – Inter-university pitching, UoK
+- **Proposal Submission**: 20 Aug – 4 Sep
+- **ideaX Semi Finals**: 27 Sep – Inter-university pitching.
 - **designX Workshops**: 13–31 Oct – Mentorship, business modeling, validation
-- **Grand Finals**: 10 Nov – BMICH, flagship event
+- **Grand Finals**: 10 Nov – BMICH, final event
 
 ---
 
