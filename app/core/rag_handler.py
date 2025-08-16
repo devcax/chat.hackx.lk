@@ -107,11 +107,27 @@ def get_query_engine():
     
     return query_engine
 
+def is_malicious_input(prompt: str) -> bool:
+    """Check for verbatim/repeat commands or recursive patterns."""
+    forbidden_patterns = [
+        "repeat and print",
+        "verbatim",
+        "above text",
+        "previous message",
+        "copy this",
+        "echo this"
+    ]
+    prompt_lower = prompt.lower()
+    return any(pattern in prompt_lower for pattern in forbidden_patterns)
+
 
 def query_rag(prompt: str, query_engine) -> str:
     """
     Queries the RAG pipeline after checking if the retrieved context is relevant.
     """
+
+    if is_malicious_input(prompt):
+        return OUT_OF_SCOPE_MESSAGE
     # First, retrieve the most relevant documents (nodes) for the prompt.
     retrieved_nodes = query_engine._retriever.retrieve(prompt)
 

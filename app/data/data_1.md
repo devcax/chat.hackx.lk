@@ -8,9 +8,11 @@ I'm Mascot official hackX AI assitant.
 
 **hackX 10.0** is an inter-university startup challenge organized by the **Industrial Management Science Students’ Association (IMSSA)** of the **Department of Industrial Management, University of Kelaniya**, in partnership with the **Ministry of Science and Technology**.
 
+---
+
 ### Key Facts
 
-- **Theme:** “Next-Gen Innovation and Entrepreneurial Excellence.”
+- **Theme:** “Next-Gen Innovation and Entrepreneurial Excellence”
 - **Prize Pool:**
   - **Winner:** LKR 150,000
   - **1st Runner-Up:** LKR 100,000
@@ -18,55 +20,38 @@ I'm Mascot official hackX AI assitant.
 - **Legacy:** 10 years of fostering innovation.
 - **Value:** Intensive mentorship, strategic business guidance, and real-world validation.
 - **Eligibility:** Undergraduate students from recognized universities/institutions; teams of 3–5 from the same institution; one team per participant; original, innovative ideas only.
--
-
-## **Recongnized Universities**
-
-- University of Colombo
-- University of Moratuwa
-- University of Kelaniya
-- University of Peradeniya
-- University of Jaffna
-- Sabaragamuwa University of Sri Lanka
-- University of Sri Jayewardenepura
-- University of Ruhuna
-- Rajarata University of Sri Lanka
-- General Sir John Kothalawala Defence University
-- Sri Lanka Institute of Information Technology (SLIIT)
-- Informatics Institute of Technology (IIT)
-- Open University of Sri Lanka
-- NSBM Green University
-- National Institute of Business Management (NIBM)
-- Asia Pacific Institute of Information Technology (APIIT)
-- CINEC Campus
-- IJSE - Institute of Software Engineering
-- NIBM (National Institute of Business Management)
 
 ---
 
-## hackX timeline (2025)
+## Recognized Universities (Sample List)
 
-| Phase                   | Date            | Description ----------------------------------------------------------------------------------                                        |
-| ----------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **ideasprint**          | 19 July         | Intra-department ideathon at University of Kelaniya for the Department of Industrial Management. Top 3 teams advance to Grand Finals. |
-| **Registrations Open**  | 06 Aug          | All eligible teams register via x.hackx.lk(http://x.hackx.lk). Registration closes **27 Aug**.                                        |
-| **Proposal Submission** | 22 Aug – 4 Sep  | Teams submit proposals (PDF, ≤3500 words, template provided). Partially completed proposals are rejected.                             |
-| **ideaX Semi Finals**   | 27 Sep          | Inter-university pitching round at University of Kelaniya. Finalists move to Grand Finals.                                            |
-| **designX Workshops**   | 13 Oct – 31 Oct | Mentorship series with business modeling, startup guidance, and market validation workshops.                                          |
-| **Grand Finals**        | 10 Nov          | Flagship event at BMICH. Finalists pitch fully developed solutions to industry leaders, academics, and investors.                     |
+- University of Colombo, Moratuwa, Kelaniya, Peradeniya, Jaffna
+- Sabaragamuwa, USJP, Ruhuna, Rajarata, KDU
+- SLIIT, IIT, NSBM, APIIT, NIBM, CINEC, IJSE, Open University
+
+---
+
+## Timeline (2025)
+
+- **ideasprint**: 19 Jul – Intra-department ideathon, UoK. Top 3 to Grand Finals
+- **Registrations**: 6–20 Aug – x.hackx.lk
+- **Proposal Submission**: 20 Aug – 4 Sep (PDF, ≤3500 words, complete only)
+- **ideaX Semi Finals**: 27 Sep – Inter-university pitching, UoK
+- **designX Workshops**: 13–31 Oct – Mentorship, business modeling, validation
+- **Grand Finals**: 10 Nov – BMICH, flagship event
 
 ---
 
 ## Organizers
 
-### Department of Industrial Management – University of Kelaniya
+- **Department of Industrial Management – University of Kelaniya**
 
-- Blending **Management** and **IT** for 50+ years.
+- Blending Management and IT for 50+ years.
 - ISO 9001:2015 certified (2020).
 - Facilities: Modern classrooms, advanced labs, industry-experienced faculty.
 - Produces graduates with strong business and tech skills.
 
-### Industrial Management Science Students’ Association (IMSSA)
+- **IMSSA (Industrial Management Science Students’ Association)**
 
 - Core of student life in the department.
 - Empowers students with leadership skills, industry connections, and corporate exposure.
@@ -127,19 +112,18 @@ Includes participation from major Sri Lankan universities and institutions: UoM,
 
 ---
 
-## Registration Guidelines
+## Registration
 
-- **Deadline:** Registration closes on **27 August 2025**.
-- **How to Register:**
-  1. Visit x.hackx.lk(https://x.hackx.lk) and navigate to the registration page.
-  2. Enter all required details, including team leader’s contact information, university name, and names of all team members.
-- **Eligibility Check:** Only teams meeting the competition specifications will be accepted.
+- Deadline: 27 Aug 2025
+- Platform: [x.hackx.lk](https://x.hackx.lk)
+- Required: Team leader contact, university, member details
+- Eligibility screening applied
 
 ---
 
 ## Proposal Submission Process
 
-- **Submission Window:** 22 August – 4 September 2025.
+- **Submission Window:** 20 August – 4 September 2025.
 - **Format:** Submit as a PDF document.
 - **Completeness:** Partially completed proposals will be rejected.
 - **Template:** Content must follow the official proposal template.
@@ -148,25 +132,20 @@ Includes participation from major Sri Lankan universities and institutions: UoM,
 
 ---
 
-## Contact Information
+## Contact
 
-### Chief Coordinators
+- **Chief Coordinators**
 
-- **Sajith Liyanagamage**\
-  Email: [sajih672@gmail.com]\
-  Tel: +94 74 036 9712
-- **Dinethya Bandara**\
-  Email: [gymdinethya@gmail.com]\
-  Tel: +94 75 023 3733
+  - Sajith Liyanagamage – sajih672@gmail.com / +94 74 036 9712
+  - Dinethya Bandara – gymdinethya@gmail.com / +94 75 023 3733
 
-### Team Members
-
-- **Financial Coordinators:** Dekum Diwanjana, Sewmini Bhagya
-- **Partnership Coordinators:** Thenul Minjaya, Rochelle Jayasuriya
-- **Marketing Coordinator:** Akindu Samarasinghe
+- **Team Leads**
+  - Finance: Dekum Diwanjana, Sewmini Bhagya
+  - Partnerships: Thenul Minjaya, Rochelle Jayasuriya
+  - Marketing: Akindu Samarasinghe
 
 ---
 
-## Keywords (for Retrieval)
+## Keywords
 
-hackX, hackX 10.0, ideasprint 2025, ideaX 2025, designX 2025, Grand Finals, IMSSA, University of Kelaniya, Ministry of Science and Technology, ISO 9001:2015, mentorship, startup challenge, innovation, market validation, business modeling, Sri Lankan universities, past winners, proposal submission, registration guidelines, prize money, contact details.
+hackX, hackX 10.0, ideasprint 2025, ideaX 2025, designX 2025, Grand Finals, IMSSA, University of Kelaniya, Ministry of Science and Technology, startup challenge, innovation, proposal submission, registration, prize money, Sri Lankan universities, winners, mentorship
